@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: #000 url("../img/webpage.jpg") top right no-repeat;
+  background: #000 url("../img/saravana_BG.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
