@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav-active #header {
   left: 0;
-  background-color: #000;
+  color: #000;
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
